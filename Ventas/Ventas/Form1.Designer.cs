@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(74, 91);
+            this.button1.Location = new System.Drawing.Point(85, 100);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(104, 44);
+            this.button1.Size = new System.Drawing.Size(100, 46);
             this.button1.TabIndex = 0;
             this.button1.Text = "Procesar";
             this.button1.UseVisualStyleBackColor = true;
